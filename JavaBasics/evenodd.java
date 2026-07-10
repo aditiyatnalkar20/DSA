@@ -1,3 +1,5 @@
+
+//if else
 import java.util.*;
 
 public class evenodd {

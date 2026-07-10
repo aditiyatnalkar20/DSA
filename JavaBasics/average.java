@@ -1,3 +1,5 @@
+
+//input output
 import java.util.*;
 
 public class average {
